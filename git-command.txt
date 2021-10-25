@@ -1,1 +1,15 @@
-AAA
+git init (Initilized Git)
+git status(Current Sataus of File)/(Eidt or Delete or New)
+git config --global user.name "<My Name>" (Declear Username)
+git config --global user.email "<My Email>" (Declear Email)
+git clone(Clone exist project from github)
+git add <file name> add file that i mentiond to git and can check with git status command //Can also use git add.
+git commit -m "Project name" //initilizing project name
+git log (To check what I commit)
+git restore . (can get all of the previous code ) 
+git clean -f(can delete new file)
+git clean -fd(can delete foloder)
+git checkout <hexacode from git log>(can gain all of the previous code)
+git checkout master(can get the first stage of project)
+git brand(make branches for developing process)
+
